@@ -1,0 +1,19 @@
+{
+  "name": "@wcd/nkurapati.react-m55g2b3i",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 0HLspIGH5i9YKh3DH5Mc --open"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "react-to-webcomponent": "^1"
+  },
+  "devDependencies": {
+    "lit-html": "^2"
+  }
+}
